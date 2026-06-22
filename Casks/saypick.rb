@@ -1,6 +1,6 @@
 cask "saypick" do
   version "0.1.0"
-  sha256 "412e36c7b30369236e51a179568aecd5eb6694e16dc3f6b5ae4b3bab38c95dec"
+  sha256 "a526c5f188e516cb17d64cbdc986272191bb1c51019757d6a1d3bd33ce48c9a3"
 
   url "https://github.com/everettjf/Saypick/releases/download/v#{version}/Saypick-#{version}.dmg"
   name "Saypick"
